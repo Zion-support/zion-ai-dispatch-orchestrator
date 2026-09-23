@@ -15,6 +15,9 @@ Zion AI Dispatch Orchestrator is a free, browser-based tool from the [Zion App N
 - [Route Density Planner](https://ziontechgroup.com/route-density-planner/) — field-service routing AI ([repo](https://github.com/Zion-support/route-density-planner))
 - [Site Survey Planner](https://ziontechgroup.com/site-survey-planner/) — AI field site survey planning ([repo](https://github.com/Zion-support/site-survey-planner))
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [MSP & Partner Ecosystem](https://github.com/Zion-support/zion-network/blob/main/network/msp-partner-ecosystem.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ## Links
 - 🌐 Homepage: https://ziontechgroup.com/
 - 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
