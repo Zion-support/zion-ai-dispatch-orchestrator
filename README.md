@@ -1,25 +1,24 @@
 # Zion AI Dispatch Orchestrator
 
-Orchestrate field dispatch with AI — right technician, right part, right time.
+Smart scheduling and dispatch orchestration for field-service teams. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Zion AI Dispatch Orchestrator is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **Field Service & Logistics**.
 
-## Related apps
-- [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — [live](https://ziontechgroup.com/zion-ai-field-dispatch/)
-- [Zion AI Field Dispatch Optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — [live](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/)
-- [Field Tech Scheduler](https://github.com/Zion-support/field-tech-scheduler) — [live](https://ziontechgroup.com/field-tech-scheduler/)
-- [Dispatch Window Optimizer](https://github.com/Zion-support/dispatch-window-optimizer) — [live](https://ziontechgroup.com/dispatch-window-optimizer/)
+## Related apps in the network
+- [Zion AI Field Dispatch](https://ziontechgroup.com/zion-ai-field-dispatch/) — AI planner for field-engineer dispatch ([repo](https://github.com/Zion-support/zion-ai-field-dispatch))
+- [Zion AI Field Dispatch Optimizer](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/) — AI routing and scheduling ([repo](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer))
+- [Dispatch Window Optimizer](https://ziontechgroup.com/dispatch-window-optimizer/) — AI scheduling of service windows ([repo](https://github.com/Zion-support/dispatch-window-optimizer))
+- [Field Tech Scheduler](https://ziontechgroup.com/field-tech-scheduler/) — AI field technician scheduling ([repo](https://github.com/Zion-support/field-tech-scheduler))
+- [Route Density Planner](https://ziontechgroup.com/route-density-planner/) — field-service routing AI ([repo](https://github.com/Zion-support/route-density-planner))
+- [Site Survey Planner](https://ziontechgroup.com/site-survey-planner/) — AI field site survey planning ([repo](https://github.com/Zion-support/site-survey-planner))
 
 ## Links
-- Live: https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
