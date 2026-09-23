@@ -1,26 +1,14 @@
-# AI Dispatch Orchestrator — Zion AI App Network
+# AI Dispatch Orchestrator
+Smart scheduling and dispatch of field engineers by location, skill and SLA.
 
-**AI Dispatch Orchestrator** schedules and dispatches field engineers (FEs) intelligently by location, skill set, availability and SLA — maximizing utilization and on-time arrivals. Part of the [Zion AI App Network](https://ziontechgroup.com/zion-app-network/).
+Live page: https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
 
-🌐 **Live app:** https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
+---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
 
-## Features
-- Skill- and certification-based engineer matching
-- Geo-optimized routing across sites and cities
-- SLA-aware scheduling with escalation windows
-- Real-time re-dispatch on cancellations or delays
-- Coverage analytics by region and contract
+**Related apps:**
+- [dispatch-window-optimizer](https://github.com/Zion-support/dispatch-window-optimizer) — https://ziontechgroup.com/dispatch-window-optimizer/
+- [route-density-planner](https://github.com/Zion-support/route-density-planner) — https://ziontechgroup.com/route-density-planner/
+- [zion-field](https://github.com/Zion-support/zion-field) — https://ziontechgroup.com/zion-field/
 
-## Works with the Zion App Network
-- [AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/) — triaged tickets become dispatch requests
-- [AI Contract Guardian](https://ziontechgroup.com/zion-ai-contract-guardian/) — enforce SLA commitments per contract
-- [AI Energy Sentinel](https://ziontechgroup.com/zion-ai-energy-sentinel/) — dispatch for energy-anomaly site visits
-- [Zion Apps Hub](https://ziontechgroup.com/zion-apps-hub/) — browse the full catalog of 50+ Zion apps
-
-## Links
-- 🏠 Homepage: https://ziontechgroup.com
-- 🗂️ App Network directory: https://ziontechgroup.com/zion-app-network/
-- 💼 Plans: https://ziontechgroup.com/en/plans/
-- 📧 Contact: commercial@ziontechgroup.com
-
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · https://ziontechgroup.com/
