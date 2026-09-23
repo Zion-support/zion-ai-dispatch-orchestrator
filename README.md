@@ -1,22 +1,25 @@
 # Zion AI Dispatch Orchestrator
 
-Zion satellite app — smart scheduling and dispatch of field engineers by location, skill, and SLA.
+Orchestrate field dispatch with AI — right technician, right part, right time.
 
 **Live app:** https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- Skill-, location- and SLA-aware engineer matching
-- Automated scheduling with conflict resolution
-- Real-time re-dispatch when SLAs are at risk
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — [live](https://ziontechgroup.com/zion-ai-field-dispatch/)
+- [Zion AI Field Dispatch Optimizer](https://github.com/Zion-support/zion-ai-field-dispatch-optimizer) — [live](https://ziontechgroup.com/zion-ai-field-dispatch-optimizer/)
+- [Field Tech Scheduler](https://github.com/Zion-support/field-tech-scheduler) — [live](https://ziontechgroup.com/field-tech-scheduler/)
+- [Dispatch Window Optimizer](https://github.com/Zion-support/dispatch-window-optimizer) — [live](https://ziontechgroup.com/dispatch-window-optimizer/)
 
-### Related apps
-- [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) — forecast breaches early
-- [Zion AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/) — AI ticket routing
-- [Driver Hours Compliance](https://ziontechgroup.com/driver-hours-compliance/) — HoS compliance
+## Links
+- Live: https://ziontechgroup.com/zion-ai-dispatch-orchestrator/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
